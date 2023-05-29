@@ -1,8 +1,11 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "Title": "Lluvia de hamburguesas",
+      "ReleaseDate": "2009-9-16",
+      "Genre": "children comedy",
+      "Rating": "PG-13",
+      "Price": 7.50M
     }
   ],
   "profile": {
